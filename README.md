@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chanakya Devendra Chukka
 
-### Data Engineer @ Fidelity Investments | Building Scalable Data & Analytics Systems | Quantitative Computing Enthusiast
+### Executive Graduate Trainee @ Fidelity Investments | Building Scalable Data & Analytics Systems | Quantitative Computing Enthusiast
 
 - 🔭 I'm currently working on **Scalable data engineering workflows and analytics infrastructure**
 
